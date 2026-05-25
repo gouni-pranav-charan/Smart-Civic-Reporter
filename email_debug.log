@@ -1,0 +1,86 @@
+[2026-03-14T18:26:41.921Z] Attempting email to: gounipranavcharanteja@gmail.com | Subject: [Accepted] Your Civic Complaint #b93c9b | Engine: SMTP
+[2026-03-14T18:26:41.922Z] Starting SMTP send for gounipranavcharanteja@gmail.com...
+[2026-03-14T18:26:44.616Z] ERROR: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2aece8363b4sm58265165ad.76 - gsmtp
+[2026-03-14T18:26:44.618Z] STACK: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2aece8363b4sm58265165ad.76 - gsmtp
+    at SMTPConnection._formatError (C:\Users\PRANAV CHARAN\OneDrive\Desktop\Smart Civic Reporter\backend\node_modules\nodemailer\lib\smtp-connection\index.js:912:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\PRANAV CHARAN\OneDrive\Desktop\Smart Civic Reporter\backend\node_modules\nodemailer\lib\smtp-connection\index.js:1722:34)
+    at SMTPConnection.<anonymous> (C:\Users\PRANAV CHARAN\OneDrive\Desktop\Smart Civic Reporter\backend\node_modules\nodemailer\lib\smtp-connection\index.js:651:26)
+    at SMTPConnection._processResponse (C:\Users\PRANAV CHARAN\OneDrive\Desktop\Smart Civic Reporter\backend\node_modules\nodemailer\lib\smtp-connection\index.js:1098:20)
+    at SMTPConnection._onData (C:\Users\PRANAV CHARAN\OneDrive\Desktop\Smart Civic Reporter\backend\node_modules\nodemailer\lib\smtp-connection\index.js:872:14)
+    at SMTPConnection._onSocketData (C:\Users\PRANAV CHARAN\OneDrive\Desktop\Smart Civic Reporter\backend\node_modules\nodemailer\lib\smtp-connection\index.js:196:44)
+    at TLSSocket.emit (node:events:508:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+[2026-03-14T18:27:04.711Z] Attempting email to: gounipranavcharanteja@gmail.com | Subject: [Resolved] Your Civic Complaint #b93c9b | Engine: SMTP
+[2026-03-14T18:27:04.712Z] Starting SMTP send for gounipranavcharanteja@gmail.com...
+[2026-03-14T18:27:07.337Z] ERROR: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2aece7edd14sm77415945ad.50 - gsmtp
+[2026-03-14T18:27:07.338Z] STACK: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2aece7edd14sm77415945ad.50 - gsmtp
+    at SMTPConnection._formatError (C:\Users\PRANAV CHARAN\OneDrive\Desktop\Smart Civic Reporter\backend\node_modules\nodemailer\lib\smtp-connection\index.js:912:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\PRANAV CHARAN\OneDrive\Desktop\Smart Civic Reporter\backend\node_modules\nodemailer\lib\smtp-connection\index.js:1722:34)
+    at SMTPConnection.<anonymous> (C:\Users\PRANAV CHARAN\OneDrive\Desktop\Smart Civic Reporter\backend\node_modules\nodemailer\lib\smtp-connection\index.js:651:26)
+    at SMTPConnection._processResponse (C:\Users\PRANAV CHARAN\OneDrive\Desktop\Smart Civic Reporter\backend\node_modules\nodemailer\lib\smtp-connection\index.js:1098:20)
+    at SMTPConnection._onData (C:\Users\PRANAV CHARAN\OneDrive\Desktop\Smart Civic Reporter\backend\node_modules\nodemailer\lib\smtp-connection\index.js:872:14)
+    at SMTPConnection._onSocketData (C:\Users\PRANAV CHARAN\OneDrive\Desktop\Smart Civic Reporter\backend\node_modules\nodemailer\lib\smtp-connection\index.js:196:44)
+    at TLSSocket.emit (node:events:508:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+[2026-03-15T16:07:55.479Z] Attempting email to: gounipranavcharanteja@gmail.com | Subject: [Accepted] Your Civic Complaint #1 | Engine: SMTP
+[2026-03-15T16:07:55.482Z] Starting SMTP send for gounipranavcharanteja@gmail.com...
+[2026-03-15T16:07:59.215Z] SMTP SUCCESS: <9aa6f099-bc09-e5d8-2184-9a37e84ea88e@gmail.com>
+[2026-03-15T16:12:27.646Z] Attempting email to: gounipranavcharanteja@gmail.com | Subject: [In Progress] Update on Your Civic Complaint #1 | Engine: SMTP
+[2026-03-15T16:12:27.648Z] Starting SMTP send for gounipranavcharanteja@gmail.com...
+[2026-03-15T16:12:32.124Z] SMTP SUCCESS: <06e031ab-3af2-33e0-b8d5-23563e99b6e9@gmail.com>
+[2026-03-15T16:13:38.227Z] Attempting email to: gounipranavcharanteja@gmail.com | Subject: [Resolved] Your Civic Complaint #1 | Engine: SMTP
+[2026-03-15T16:13:38.228Z] Starting SMTP send for gounipranavcharanteja@gmail.com...
+[2026-03-15T16:13:41.897Z] SMTP SUCCESS: <270b94f3-4a29-cbc0-c321-18eccf6b7aa2@gmail.com>
+[2026-03-18T06:26:45.694Z] Attempting email to: vineethbandari20@gmail.com | Subject: [Accepted] Your Civic Complaint #2 | Engine: SMTP
+[2026-03-18T06:26:45.696Z] Starting SMTP send for vineethbandari20@gmail.com...
+[2026-03-18T06:27:05.959Z] SMTP SUCCESS: <9d09f905-86ec-a7b3-6553-9155ea57e6d3@gmail.com>
+[2026-03-18T06:28:42.840Z] Attempting email to: vineethbandari20@gmail.com | Subject: [In Progress] Update on Your Civic Complaint #2 | Engine: SMTP
+[2026-03-18T06:28:42.841Z] Starting SMTP send for vineethbandari20@gmail.com...
+[2026-03-18T06:28:46.672Z] Attempting email to: vineethbandari20@gmail.com | Subject: [In Progress] Update on Your Civic Complaint #2 | Engine: SMTP
+[2026-03-18T06:28:46.673Z] Starting SMTP send for vineethbandari20@gmail.com...
+[2026-03-18T06:28:48.908Z] SMTP SUCCESS: <1c5bdb7b-da5f-ea01-96be-e0045c2cf6c3@gmail.com>
+[2026-03-18T06:28:51.955Z] SMTP SUCCESS: <a5315aab-8148-3516-1971-56f437e2e437@gmail.com>
+[2026-04-05T14:42:45.952Z] Attempting email to: vineethbandari20@gmail.com | Subject: [Resolved] Your Civic Complaint #2 | Engine: SMTP
+[2026-04-05T14:42:45.955Z] Starting SMTP send for vineethbandari20@gmail.com...
+[2026-04-05T14:42:49.930Z] SMTP SUCCESS: <e791248f-4892-7a6b-e72a-2b77628a5d89@gmail.com>
+[2026-04-09T04:15:07.483Z] Attempting email to: gounipranavcharanteja@gmail.com | Subject: [Accepted] Your Civic Complaint #3 | Engine: SMTP
+[2026-04-09T04:15:07.485Z] Starting SMTP send for gounipranavcharanteja@gmail.com...
+[2026-04-09T04:15:12.244Z] SMTP SUCCESS: <b64a8ad5-ea90-de82-c696-a7066820b37d@gmail.com>
+[2026-04-09T04:21:58.783Z] Attempting email to: gounipranavcharanteja@gmail.com | Subject: [Resolved] Your Civic Complaint #3 | Engine: SMTP
+[2026-04-09T04:21:58.784Z] Starting SMTP send for gounipranavcharanteja@gmail.com...
+[2026-04-09T04:22:00.401Z] Attempting email to: gounipranavcharanteja@gmail.com | Subject: [Resolved] Your Civic Complaint #3 | Engine: SMTP
+[2026-04-09T04:22:00.402Z] Starting SMTP send for gounipranavcharanteja@gmail.com...
+[2026-04-09T04:22:03.681Z] SMTP SUCCESS: <4fa8368a-ca22-ff45-4170-0fa5c1524e83@gmail.com>
+[2026-04-09T04:22:05.165Z] SMTP SUCCESS: <9fd965ea-4824-4e2a-d254-7efbd1f3947d@gmail.com>
+[2026-04-09T04:34:55.404Z] Attempting email to: gounipranavcharanteja@gmail.com | Subject: [Rejected] Update on Your Civic Complaint #3 | Engine: SMTP
+[2026-04-09T04:34:55.406Z] Starting SMTP send for gounipranavcharanteja@gmail.com...
+[2026-04-09T04:35:00.674Z] SMTP SUCCESS: <27b72cd6-da02-5f90-b061-91a69e9fda2c@gmail.com>
+[2026-04-09T04:53:44.321Z] Attempting email to: d@gmail.com | Subject: [Accepted] Your Civic Complaint #4 | Engine: SMTP
+[2026-04-09T04:53:44.322Z] Starting SMTP send for d@gmail.com...
+[2026-04-09T04:53:49.221Z] SMTP SUCCESS: <48752a7d-ea4b-82fc-62cc-f134bdd2e579@gmail.com>
+[2026-04-09T04:54:00.314Z] Attempting email to: d@gmail.com | Subject: [Pending Verification] Your Civic Complaint #4 | Engine: SMTP
+[2026-04-09T04:54:00.315Z] Starting SMTP send for d@gmail.com...
+[2026-04-09T04:54:03.455Z] SMTP SUCCESS: <f18b8040-6ac5-477e-054b-74910b03cb54@gmail.com>
+[2026-04-09T04:55:43.731Z] Attempting email to: gounipranavcharanteja@gmail.com | Subject: [Accepted] Your Civic Complaint #5 | Engine: SMTP
+[2026-04-09T04:55:43.732Z] Starting SMTP send for gounipranavcharanteja@gmail.com...
+[2026-04-09T04:55:48.719Z] SMTP SUCCESS: <115c648e-eddf-5774-7046-14ef998a860b@gmail.com>
+[2026-04-09T04:56:07.759Z] Attempting email to: gounipranavcharanteja@gmail.com | Subject: [Pending Verification] Your Civic Complaint #5 | Engine: SMTP
+[2026-04-09T04:56:07.761Z] Starting SMTP send for gounipranavcharanteja@gmail.com...
+[2026-04-09T04:56:12.574Z] SMTP SUCCESS: <ad51939a-f634-2f81-0d20-5bcea6c5ac18@gmail.com>
+[2026-04-10T05:15:58.382Z] Attempting email to: gounipranavcharanteja@gmail.com | Subject: [Accepted] Your Civic Complaint #6 | Engine: SMTP
+[2026-04-10T05:15:58.385Z] Starting SMTP send for gounipranavcharanteja@gmail.com...
+[2026-04-10T05:16:28.196Z] SMTP SUCCESS: <adae0d94-f397-3036-e3d1-b19f553fb844@gmail.com>
+[2026-04-10T05:18:44.927Z] Attempting email to: gounipranavcharanteja@gmail.com | Subject: [Pending Verification] Your Civic Complaint #6 | Engine: SMTP
+[2026-04-10T05:18:44.929Z] Starting SMTP send for gounipranavcharanteja@gmail.com...
+[2026-04-10T05:18:48.791Z] Attempting email to: gounipranavcharanteja@gmail.com | Subject: [Pending Verification] Your Civic Complaint #6 | Engine: SMTP
+[2026-04-10T05:18:48.797Z] Starting SMTP send for gounipranavcharanteja@gmail.com...
+[2026-04-10T05:19:01.796Z] SMTP SUCCESS: <787333c8-9a1d-836a-52e2-6f64cdfb50ad@gmail.com>
+[2026-04-10T05:19:10.514Z] SMTP SUCCESS: <036484ad-7a28-f465-9837-6b3d9bb2a724@gmail.com>

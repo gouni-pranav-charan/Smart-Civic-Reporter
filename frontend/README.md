@@ -1,0 +1,7 @@
+# Community Issues Reporting System
+
+The Community Issues Reporting System is a full-stack web application developed to simplify and modernize the process of reporting civic infrastructure problems. The platform enables citizens to report issues such as potholes, garbage accumulation, drainage blockages, damaged streetlights, and other public utility concerns through a user-friendly digital interface. Users can securely register, log in, upload images of the issue, provide descriptions, and specify the exact location of the problem for accurate reporting.
+
+The system is designed to improve communication and transparency between citizens and municipal authorities. All complaints are stored in a centralized database and displayed on an administrative dashboard where authorities can review, verify, assign, and update complaint statuses efficiently. Citizens can also track the progress of their complaints in real time, ensuring accountability throughout the resolution process.
+
+A key feature of the platform is its time-bound complaint resolution mechanism, which encourages faster issue handling and escalates unresolved complaints to higher authorities when necessary. Built using modern web technologies, the project focuses on responsive design, secure authentication, efficient complaint management, and scalable architecture. The Community Issues Reporting System aims to contribute toward smarter, cleaner, and more responsive cities by leveraging technology to improve urban infrastructure management and citizen engagement. 

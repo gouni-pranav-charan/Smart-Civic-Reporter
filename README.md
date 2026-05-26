@@ -140,10 +140,14 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 5. Open a Pull Request
 ---
  
-## 👤 Author
+## 👤 Team
  
 **Pranav Charan Teja Gouni**
 - GitHub: [@gouni-pranav-charan](https://github.com/gouni-pranav-charan)
+**Vineeth Bandari**
+- GitHub: [@vineethbandari20-a11y](https://github.com/vineethbandari20-a11y)
+**BalReddy**
+- GitHub: [@balu2412](https://github.com/balu2412)
 ---
  
 ## 📄 License
